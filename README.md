@@ -1,4 +1,5 @@
 ![Header](./assets/github-header-image-2.png)
+<hr>
 <img align="right" alt="Coding" width="320" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanwritescode&label=Profile%20views&color=0e75b6&style=flat" alt="ivanwritescode" /> </p>
