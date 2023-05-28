@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Ivan Mejico</h1>
-<h3 align="center">A passionate frontend developer from the Philippines</h3>
+<h3 align="center">I'm a Computer Engineering graduate passionate about web development.</h3>
 
 - 🌱 I’m currently learning **React**
 
