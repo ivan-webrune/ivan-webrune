@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,I'm Ivan Mejico</h1>
-<h3 align="center">I'm a Computer Engineering graduate passionate about web development.</h3>
+<h3 align="center">A passionate frontend developer from the Philippines</h3>
 
 - 🌱 I’m currently learning **React**
 
@@ -11,9 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.to/ivanmejico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/ivanmejico" height="30" width="40" /></a>
+<a href="https://dev.to/ivanmejico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ivanmejico" height="30" width="40" /></a>
 <a href="https://twitter.com/ivanwritescode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ivanwritescode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/ivan-mejico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ivan-mejico" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ivan-mejico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan-mejico" height="30" width="40" /></a>
 <a href="https://medium.com/@ivanmejico.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ivanmejico.dev" height="30" width="40" /></a>
 </p>
 
