@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,I'm Ivan Mejico</h1>
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=826&t=st=1685260537~exp=1685261137~hmac=e44be97bf948d12dc79ccd05309572180bf86cc04b71ed6cb2975134bfc1d7fe" />
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanwritescode&label=Profile%20views&color=0e75b6&style=flat" alt="ivanwritescode" /> </p>
 
