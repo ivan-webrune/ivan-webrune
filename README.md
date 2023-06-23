@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ivanwritescode" target="blank"><img src="https://img.shields.io/twitter/follow/ivanwritescode?logo=twitter&style=for-the-badge" alt="ivanwritescode" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://ivanwritescode.github.io/my-portfolio/](https://ivanwritescode.github.io/my-portfolio/)
 
