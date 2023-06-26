@@ -2,7 +2,7 @@
 <hr/>
 <img align="right" alt="Coding" width="320" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanwritescode&label=Profile%20views&color=0e75b6&style=flat" alt="ivanwritescode" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanwritescode&label=Profile%20views&color=0e75b6&style=flat" alt="ivanwritescode" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/ivanwritescode" target="blank"><img src="https://img.shields.io/twitter/follow/ivanwritescode?logo=twitter&style=for-the-badge" alt="ivanwritescode" /></a> </p>
 
