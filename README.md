@@ -1,4 +1,4 @@
-![Header](./assets/github-header-image-2.png)
+![Header](./assets/github-header-image-3.png)
 <hr/>
 <img align="right" alt="Coding" width="320" src="https://gifdb.com/images/file/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" />
 
