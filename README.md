@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ivanmejico.dev@gmail.com**
 
-- 📄 Know about my experiences [resume.pdf](https://drive.google.com/file/d/1O0K9imZgf23ge-UYS1NPkHCHoqEqmREt/view?usp=sharing](https://drive.google.com/file/d/14NsHFI_oLxsYmEEth2AxdykULuSsnfPV/view?usp=sharing)
+- 📄 Know about my experiences [resume.pdf](https://drive.google.com/file/d/14NsHFI_oLxsYmEEth2AxdykULuSsnfPV/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
