@@ -15,7 +15,7 @@
 ## About Me
 
 ```javascript
-var ivanSkillTree = {
+var ivanMetadata = {
   location: "Philippines",
   currentFocus: "C# & ASP.NET",
   skills: {
