@@ -95,7 +95,7 @@ var ivan = {
 ### Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,jest,vite,webpack,bash,selenium,docker,mysql,mongodb,redis,figma,raspberrypi,arduino,linux,vim,vscode" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=git,vim,vscode,mongodb,mysql,redis,jest,selenium,vite,webpack,npm,notion,obsidian,linux,kali,ubuntu,bash,docker,figma,raspberrypi,arduino" alt="Tools & Technologies" />
 </div>
 
 ## 🚀 Current Focus
