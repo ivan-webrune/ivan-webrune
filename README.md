@@ -14,43 +14,125 @@
 
 ## About Me
 
-```javascript
-var ivanMetadata = {
-  location: "Philippines",
-  currentFocus: "C# & ASP.NET",
-  skills: {
+```typescript
+// developer.config.ts
+
+type Language = "JavaScript" | "TypeScript" | "C#" | "HTML" | "CSS";
+type Library = "React.js" | "Redux" | "Zustand" | "Zod";
+type Framework = "Tailwind CSS" | "Next.js" | ".NET";
+type Database = "MongoDB" | "MySQL";
+type VersionControl = "Git" | "GitHub";
+type TestingTool = "Jest" | "Selenium" | "Postman";
+type BuildTool = "Vite" | "Webpack" | "npm" | "Eslint" | "Prettier";
+type CssPreprocessor = "SASS";
+type Editor = "Vim" | "Neovim" | "VS Code" | "Visual Studio" | "Sublime";
+type DesignTool = "Figma" | "Photoshop";
+type Interest = "Web Development" | "Application Security" | "Open Source" | "Arduino" | "Cloud Computing" | "DevOps";
+type Certification = "JavaScript Algorithms and Data Structures" | "Responsive Web Design" | "Legacy JavaScript Algorithms and Data Structures" | "Back End Development and APIs";
+
+interface Spells {
+  state: Library[];
+  ui: Library[];
+  validation: Library[];
+}
+
+interface Toolkit {
+  dataVaults: Database[];
+  timeTravel: VersionControl[];
+  qualityCheck: TestingTool[];
+  forge: BuildTool[];
+  styleSorcery: CssPreprocessor[];
+}
+
+interface Weapons {
+  languages: Language[];
+  spells: Spells;
+  powerArmor: Framework[];
+  toolkit: Toolkit;
+}
+
+interface Workspace {
+  editors: Editor[];
+  visualCrafting: DesignTool[];
+}
+
+interface Achievements {
+  freeCodeCamp: Certification[];
+}
+
+interface Developer {
+  basecamp: string;
+  currentMission: string;
+  weapons: Weapons;
+  workspace: Workspace;
+  questLog: Interest[];
+  achievements: Achievements;
+  init: () => Developer;
+}
+
+export const Ivan: Developer = {
+  // Currently coding from 🏝️
+  basecamp: "Philippines",
+  
+  // Mission control 🚀
+  currentMission: "C# & ASP.NET",
+  
+  // Tech arsenal ⚔️
+  weapons: {
     languages: ["JavaScript", "TypeScript", "C#", "HTML", "CSS"],
-    libraries: ["React.js", "Redux", "Zustand", "Zod"],
-    frameworks: ["Tailwind CSS", "Next.js", ".NET"],
-    tools: {
-      databases: ["MongoDB", "MySQL"],
-      versioncontrol: ["Git", "GitHub"],
-      testing: ["Jest", "Selenium", "Postman"],
-      build: ["Vite", "Webpack", "npm", "Eslint", "Prettier"],
-      cssPreprocessor: ["SASS"],
+    
+    spells: {  // Libraries that do the magic
+      state: ["Redux", "Zustand"],
+      ui: ["React.js"],
+      validation: ["Zod"]
     },
-    workflow: {
-      editors: ["Vim", "Neovim", "VS Code", "Visual Studio", "Sublime"],
-      design: ["Figma", "Photoshop"],
-    },
+    
+    powerArmor: ["Tailwind CSS", "Next.js", ".NET"],  // Frameworks
+    
+    toolkit: {
+      dataVaults: ["MongoDB", "MySQL"],
+      timeTravel: ["Git", "GitHub"],  // Version control
+      qualityCheck: ["Jest", "Selenium", "Postman"],
+      forge: ["Vite", "Webpack", "npm", "Eslint", "Prettier"],
+      styleSorcery: ["SASS"]
+    }
   },
-  interests: [
+  
+  // Command center 🖥️
+  workspace: {
+    editors: ["Vim", "Neovim", "VS Code", "Visual Studio", "Sublime"],
+    visualCrafting: ["Figma", "Photoshop"]
+  },
+  
+  // Quest log 📜
+  questLog: [
     "Web Development",
     "Application Security",
     "Open Source",
     "Arduino",
-    "Cloud Computing",
-    "DevOps",
+    "Cloud Computing", 
+    "DevOps"
   ],
-  certifications: {
+  
+  // Achievement badges 🏆
+  achievements: {
     freeCodeCamp: [
       "JavaScript Algorithms and Data Structures",
       "Responsive Web Design",
       "Legacy JavaScript Algorithms and Data Structures",
-      "Back End Development and APIs",
-    ],
+      "Back End Development and APIs"
+    ]
   },
+  
+  // Execute developer program
+  init: function(): Developer {
+    console.log("Hello World! I'm Ivan, let's build something amazing!");
+    return this;
+  }
 };
+
+// Start coding journey
+Ivan.init();
 ```
 
 ## 📊 GitHub Stats
