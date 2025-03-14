@@ -20,7 +20,7 @@ var ivanMetadata = {
   currentFocus: "C# & ASP.NET",
   skills: {
     languages: ["JavaScript", "TypeScript", "C#", "HTML", "CSS"],
-    libraries: ["React.js", "Redux", "Zustand"],
+    libraries: ["React.js", "Redux", "Zustand", "Zod"],
     frameworks: ["Tailwind CSS", "Next.js", ".NET"],
     tools: {
       databases: ["MongoDB", "MySQL"],
@@ -95,54 +95,55 @@ var ivanMetadata = {
 
 ### Languages
 
-<div align="center">
+<div align="center" title="JavaScript, TypeScript, C#, HTML, and CSS">
   <img src="https://skillicons.dev/icons?i=js,ts,cs,html,css" alt="Languages" />
 </div>
 
 ### Libraries
 
-<div align="center">
+<div align="center" title="React, Redux, Zustand, and Zod">
   <img src="https://skillicons.dev/icons?i=react,redux" alt="Libraries" />
+  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" style="width: 40px; height: 40px; padding: 5px; background-color:rgb(33, 32, 43); border-radius: 30%; margin-left: 3px;" alt="Zustand" width="40" height="40"/>
+  <img src="https://zod.dev/logo.svg" style="width: 40px; height: 40px; padding: 5px; background-color:rgb(27, 20, 66); border-radius: 30%; margin-left: 3px;" alt="Zod" width="40" height="40"/>
 </div>
 
 ### Frameworks & Platforms
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nextjs,net" alt="Frameworks & Platforms" />
+<div align="center" title="Bootstrap, Tailwind CSS, Next.js, and .NET" >
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nextjs,net" alt="Frameworks & Platforms"/>
 </div>
 
 ### Tools & Technologies
 
 #### Databases
 
-<div align="center">
+<div align="center" title="MongoDB and MySQL" >
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 </div>
 
 #### Version Control
 
-<div align="center">
+<div align="center" title="Git and GitHub">
   <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
 </div>
 
 #### Testing & Automation
 
-<div align="center">
+<div align="center" title="Jest, Selenium, and Postman">
   <img src="https://skillicons.dev/icons?i=jest,selenium,postman" alt="Testing & Automation" />
 </div>
 
 #### Build Tools & Package Management
 
-<div align="center">
+<div align="center" title="Vite, Webpack, NPM, ESLint, and Prettier">
   <img src="https://skillicons.dev/icons?i=vite,webpack,npm" alt="Build Tools & Package Management" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" style="width: 40px; height: 40px; padding: 5px; background-color:rgb(54, 52, 65); border-radius: 30%; margin-left: 3px;" alt="ESLint" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/prettier-1.svg" style="width: 40px; height: 40px; padding: 5px; background-color:rgb(54, 52, 65); border-radius: 30%; margin-left: 3px;" alt="ESLint" width="40" height="40"/>
-  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" style="width: 40px; height: 40px; padding: 5px; background-color:rgb(54, 52, 65); border-radius: 30%; margin-left: 3px;" alt="ESLint" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/prettier-1.svg" style="width: 40px; height: 40px; padding: 5px; background-color:rgb(54, 52, 65); border-radius: 30%; margin-left: 3px;" alt="Prettier" width="40" height="40"/>
 </div>
 
 #### CSS Preprocessor
 
-<div align="center">
+<div align="center" title="SASS">
   <img src="https://skillicons.dev/icons?i=sass" alt="CSS Preprocessor" />
 </div>
 
@@ -150,7 +151,7 @@ var ivanMetadata = {
 
 #### Editors & IDEs
 
-<div align="center">
+<div align="center" title="Vim, Neovim, Visual Studio Code, and Visual Studio">
   <img src="https://skillicons.dev/icons?i=vim,neovim,vscode,visualstudio,sublime" alt="Editors & IDEs" />
 </div>
 
@@ -158,7 +159,7 @@ var ivanMetadata = {
 
 #### Design Tools
 
-<div align="center">
+<div align="center" title="Figma and Photoshop">
   <img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design Tools" />
 </div>
 
