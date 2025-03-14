@@ -135,7 +135,7 @@ export const Ivan: Developer = {
 Ivan.init();
 ```
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
   <picture>
@@ -165,7 +165,7 @@ Ivan.init();
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanwritescode&theme=nord_bright">
     <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanwritescode&theme=nord_dark" alt="Ivan's GitHub Activity Graph">
   </picture>
-</div>
+</div> -->
 
 ## 🏆 GitHub Trophies
 
