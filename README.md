@@ -1,4 +1,4 @@
-# Ivan Mejico | Full Stack Developer
+<h1 align="center">Ivan Mejico | Full Stack Developer</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2C68F6&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer;JavaScript+%E2%9D%A4+React+%E2%9D%A4+TypeScript+%E2%9D%A4+C%23;Learning+C%23+%26+ASP.NET;Always+curious" alt="Typing SVG" />
@@ -86,35 +86,93 @@ var ivan = {
 
 ## 🔥 My Skills
 
-### Languages & Frameworks
+### Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,html,css,sass,react,bootstrap,tailwind,nextjs,redux,net,flask,md" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,html,css,md" alt="Languages" />
+</div>
+
+### Libraries
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,redux" alt="Libraries" />
+</div>
+
+### Frameworks & Platforms
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nextjs,net,flask" alt="Frameworks & Platforms" />
 </div>
 
 ### Tools & Technologies
 
+#### Databases
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,vim,vscode,mongodb,mysql,redis,jest,selenium,vite,webpack,npm,notion,obsidian,linux,kali,ubuntu,bash,docker,figma,raspberrypi,arduino" alt="Tools & Technologies" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Databases" />
 </div>
 
-## 🚀 Current Focus
+#### DevOps & Containerization
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,bash" alt="DevOps & Containerization" />
+</div>
+
+#### Testing & Automation
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=jest,selenium" alt="Testing & Automation" />
+</div>
+
+#### Build Tools & Package Management
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vite,webpack,npm" alt="Build Tools & Package Management" />
+</div>
+
+#### CSS Preprocessor
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=sass" alt="CSS Preprocessor" />
+</div>
+
+### 🛠 Workflow
+
+#### Editors & IDEs
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vim,neovim,vscode,visualstudio,sublime" alt="Editors & IDEs" />
+</div>
+
+#### Hardware
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" alt="Hardware" />
+</div>
+
+#### Design Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" alt="Design Tools" />
+</div>
+
+### 🚀 Current Focus
 
 - 🌱 Improving my C# and ASP.NET Core skills
 - 🔍 Exploring cloud computing and DevOps
 - 🧠 Deepening my understanding of application security
 
-## 📜 Latest Blog Posts
+### 📜 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## 🔗 Quick Links
+### 🔗 Quick Links
 
 - 👨‍💻 [Portfolio](https://ivanwritescode.github.io/my-portfolio/)
 - 📄 [Resume](https://drive.google.com/file/d/1_gdsiAgckm82pkTRDFuzcoylVmHb0I2U/view?usp=sharing)
 
-## 📫 Contact Me
+### 📫 Contact Me
 
 Feel free to reach out to me at [ivanmejico.dev@gmail.com](mailto:ivanmejico.dev@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/ivan-mejico).
 
