@@ -47,13 +47,23 @@ var ivan = {
 ```
 
 ## 📊 GitHub Stats
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanwritescode&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&rank_icon=github">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanwritescode&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github">
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanwritescode&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&rank_icon=github" alt="Ivan's GitHub Stats">
   </picture>
+  
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.vercel.app/?user=ivanwritescode&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.vercel.app/?user=ivanwritescode&theme=default&hide_border=true">
+      <img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=ivanwritescode&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="Ivan's GitHub Streak Stats">
+    </picture>
+  </a>
 </div>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivanwritescode&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
@@ -67,6 +77,7 @@ var ivan = {
     <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanwritescode&theme=nord_dark" alt="Ivan's GitHub Activity Graph">
   </picture>
 </div>
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
