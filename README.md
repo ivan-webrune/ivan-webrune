@@ -15,17 +15,33 @@
 ## About Me
 
 ```javascript
-var ivan = {
+var ivanSkillTree = {
   location: "Philippines",
   currentFocus: "C# & ASP.NET",
   skills: {
-    languages: ["JavaScript", "TypeScript", "C#", "HTML", "CSS"],
-    frontend: ["React.js", "Next.js", "Tailwind CSS", "SASS"],
-    backend: ["ASP.NET Core", "Node.js"],
-    frameworks: ["Next.js"],
-    tools: ["Git", "Jest", "Bash", "Postman", "Docker"],
-    databases: ["MySQL", "MariaDB", "SQLite", "MongoDB"],
-    design: ["Figma", "Adobe Photoshop", "Adobe Illustrator"],
+    languages: [
+      "JavaScript",
+      "TypeScript",
+      "C#",
+      "Python",
+      "HTML",
+      "CSS",
+      "Markdown",
+    ],
+    libraries: ["React.js", "Redux"],
+    frameworks: ["Bootstrap", "Tailwind CSS", "Next.js", ".NET", "Flask"],
+    tools: {
+      databases: ["MongoDB", "MySQL", "Redis"],
+      devops: ["Git", "Docker", "Bash"],
+      testing: ["Jest", "Selenium", "Postman"],
+      build: ["Vite", "Webpack", "npm"],
+      cssPreprocessor: ["SASS"],
+    },
+    workflow: {
+      editors: ["Vim", "Neovim", "VS Code", "Visual Studio", "Sublime"],
+      hardware: ["Raspberry Pi", "Arduino"],
+      design: ["Figma", "Photoshop"],
+    },
   },
   interests: [
     "Web Development",
@@ -121,7 +137,7 @@ var ivan = {
 #### Testing & Automation
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=jest,selenium" alt="Testing & Automation" />
+  <img src="https://skillicons.dev/icons?i=jest,selenium,postman" alt="Testing & Automation" />
 </div>
 
 #### Build Tools & Package Management
