@@ -1,7 +1,7 @@
-<h1 align="center">Ivan Mejico | Full Stack Developer</h1>
+<h1 align="center">Ivan Mejico | Junior Web Developer</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2C68F6&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer;JavaScript+%E2%9D%A4+React+%E2%9D%A4+TypeScript+%E2%9D%A4+C%23;Learning+C%23+%26+ASP.NET;Always+curious" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2C68F6&center=true&vCenter=true&random=false&width=800&lines=Junior+Web+Developer;JavaScript+%E2%9D%A4+React+%E2%9D%A4+TypeScript+%E2%9D%A4+C%23;Learning+C%23+%26+ASP.NET;Always+curious" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,27 +19,18 @@ var ivanMetadata = {
   location: "Philippines",
   currentFocus: "C# & ASP.NET",
   skills: {
-    languages: [
-      "JavaScript",
-      "TypeScript",
-      "C#",
-      "Python",
-      "HTML",
-      "CSS",
-      "Markdown",
-    ],
-    libraries: ["React.js", "Redux"],
-    frameworks: ["Bootstrap", "Tailwind CSS", "Next.js", ".NET", "Flask"],
+    languages: ["JavaScript", "TypeScript", "C#", "HTML", "CSS"],
+    libraries: ["React.js", "Redux", "Zustand"],
+    frameworks: ["Tailwind CSS", "Next.js", ".NET"],
     tools: {
-      databases: ["MongoDB", "MySQL", "Redis"],
-      devops: ["Git", "Docker", "Bash"],
+      databases: ["MongoDB", "MySQL"],
+      versioncontrol: ["Git", "GitHub"],
       testing: ["Jest", "Selenium", "Postman"],
-      build: ["Vite", "Webpack", "npm"],
+      build: ["Vite", "Webpack", "npm", "Eslint", "Prettier"],
       cssPreprocessor: ["SASS"],
     },
     workflow: {
       editors: ["Vim", "Neovim", "VS Code", "Visual Studio", "Sublime"],
-      hardware: ["Raspberry Pi", "Arduino"],
       design: ["Figma", "Photoshop"],
     },
   },
@@ -105,7 +96,7 @@ var ivanMetadata = {
 ### Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,html,css,md" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,html,css" alt="Languages" />
 </div>
 
 ### Libraries
@@ -117,7 +108,7 @@ var ivanMetadata = {
 ### Frameworks & Platforms
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nextjs,net,flask" alt="Frameworks & Platforms" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,nextjs,net" alt="Frameworks & Platforms" />
 </div>
 
 ### Tools & Technologies
@@ -125,13 +116,13 @@ var ivanMetadata = {
 #### Databases
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
 </div>
 
-#### DevOps & Containerization
+#### Version Control
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,bash" alt="DevOps & Containerization" />
+  <img src="https://skillicons.dev/icons?i=git,github" alt="Version Control" />
 </div>
 
 #### Testing & Automation
@@ -144,6 +135,9 @@ var ivanMetadata = {
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vite,webpack,npm" alt="Build Tools & Package Management" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" style="width: 40px; height: 40px; padding: 5px; background-color:rgb(54, 52, 65); border-radius: 30%; margin-left: 3px;" alt="ESLint" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/prettier-1.svg" style="width: 40px; height: 40px; padding: 5px; background-color:rgb(54, 52, 65); border-radius: 30%; margin-left: 3px;" alt="ESLint" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" style="width: 40px; height: 40px; padding: 5px; background-color:rgb(54, 52, 65); border-radius: 30%; margin-left: 3px;" alt="ESLint" width="40" height="40"/>
 </div>
 
 #### CSS Preprocessor
@@ -161,10 +155,6 @@ var ivanMetadata = {
 </div>
 
 #### Hardware
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" alt="Hardware" />
-</div>
 
 #### Design Tools
 
