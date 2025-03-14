@@ -48,6 +48,7 @@ const ivan = {
 
 ## 📊 GitHub Stats
 
+<div  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanwritescode&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&rank_icon=github">
@@ -75,7 +76,7 @@ const ivan = {
     <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanwritescode&theme=nord_dark" alt="Ivan's GitHub Activity Graph">
   </picture>
 </div>
-
+</div>
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -85,11 +86,13 @@ const ivan = {
 ## 🔥 My Skills
 
 ### Languages & Frameworks
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,cs,python,html,css,sass,react,bootstrap,tailwind,nextjs,redux,net,flask,md" alt="Languages & Frameworks" />
 </div>
 
 ### Tools & Technologies
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,jest,vite,webpack,bash,selenium,docker,mysql,mongodb,redis,figma,raspberrypi,arduino,linux,vim,vscode" alt="Tools & Technologies" />
 </div>
