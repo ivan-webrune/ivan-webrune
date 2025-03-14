@@ -101,7 +101,7 @@ var ivan = {
 ## 🔗 Quick Links
 
 - 👨‍💻 [Portfolio](https://ivanwritescode.github.io/my-portfolio/)
-- 📄 [Resume](https://drive.google.com/file/d/14NsHFI_oLxsYmEEth2AxdykULuSsnfPV/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1_gdsiAgckm82pkTRDFuzcoylVmHb0I2U/view?usp=sharing)
 
 ## 📫 Contact Me
 
