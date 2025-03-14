@@ -15,7 +15,7 @@
 ## About Me
 
 ```javascript
-const ivan = {
+var ivan = {
   location: "Philippines",
   currentFocus: "C# & ASP.NET",
   skills: {
