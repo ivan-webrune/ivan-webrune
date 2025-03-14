@@ -1,7 +1,7 @@
 # Ivan Mejico | Full Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2C68F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;JavaScript+%E2%9D%A4+React+%E2%9D%A4+TypeScript;Learning+C%23+%26+ASP.NET;Always+curious" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2C68F6&center=true&vCenter=true&random=false&width=800&lines=Full+Stack+Developer;JavaScript+%E2%9D%A4+React+%E2%9D%A4+TypeScript+%E2%9D%A4+C%23;Learning+C%23+%26+ASP.NET;Always+curious" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -84,8 +84,14 @@ const ivan = {
 
 ## 🔥 My Skills
 
+### Languages & Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nextjs,redux,html,css,sass,tailwind,git,jest,docker,mysql,mongodb,figma" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,html,css,sass,react,bootstrap,tailwind,nextjs,redux,net,flask,md" alt="Languages & Frameworks" />
+</div>
+
+### Tools & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,jest,vite,webpack,bash,selenium,docker,mysql,mongodb,redis,figma,raspberrypi,arduino,linux,vim,vscode" alt="Tools & Technologies" />
 </div>
 
 ## 🚀 Current Focus
