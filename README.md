@@ -1,7 +1,7 @@
 # Ivan Mejico | Full Stack Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2C68F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;JavaScript+%E2%9D%A4+React+%E2%9D%A4+TypeScript;Learning+Node.js;Always+curious" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2C68F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;JavaScript+%E2%9D%A4+React+%E2%9D%A4+TypeScript;Learning+C%23+%26+ASP.NET;Always+curious" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -49,25 +49,55 @@ const ivan = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ivanwritescode&show_icons=true&theme=tokyonight&hide_border=true" alt="Ivan's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanwritescode&theme=tokyonight&hide_border=true" alt="Ivan's Streak Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanwritescode&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&rank_icon=github">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanwritescode&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github">
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanwritescode&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&rank_icon=github" alt="Ivan's GitHub Stats">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ivanwritescode&theme=monokai-metallian&hide_border=true&background=1F222E">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ivanwritescode&theme=default&hide_border=true">
+    <img width="49%" src="https://streak-stats.demolab.com?user=ivanwritescode&theme=monokai-metallian&hide_border=true&background=1F222E" alt="Ivan's Streak Stats">
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanwritescode&layout=compact&theme=tokyonight&hide_border=true" alt="Ivan's Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivanwritescode&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivanwritescode&layout=compact&langs_count=8&theme=default&hide_border=true">
+    <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivanwritescode&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Ivan's Top Languages">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanwritescode&theme=nord_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanwritescode&theme=nord_bright">
+    <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanwritescode&theme=nord_dark" alt="Ivan's GitHub Activity Graph">
+  </picture>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ivanwritescode&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Ivan's GitHub Trophies" />
 </div>
 
 ## 🔥 My Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,tailwind,git,jest,bash,mysql,sqlite,ps,ai,arduino" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,react,nextjs,redux,html,css,sass,tailwind,git,jest,docker,mysql,mongodb,figma" alt="Skills" />
 </div>
 
 ## 🚀 Current Focus
 
-- 🌱 Improving my Node.js skills
-- 🔍 Exploring backend development
-- 🧠 Deepening my understanding of React and TypeScript
+- 🌱 Improving my C# and ASP.NET Core skills
+- 🔍 Exploring cloud computing and DevOps
+- 🧠 Deepening my understanding of application security
+
+## 📜 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Quick Links
 
