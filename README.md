@@ -211,8 +211,3 @@ Ivan.init();
 
 Feel free to reach out to me at [ivanmejico.dev@gmail.com](mailto:ivanmejico.dev@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/ivan-mejico).
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ivanwritescode&style=for-the-badge&color=blue" alt="Profile Views" />
-</div>
