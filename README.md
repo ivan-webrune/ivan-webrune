@@ -22,7 +22,7 @@ var ivan = {
     languages: ["JavaScript", "TypeScript", "C#", "HTML", "CSS"],
     frontend: ["React.js", "Next.js", "Tailwind CSS", "SASS"],
     backend: ["ASP.NET Core", "Node.js"],
-    frameworks: ["Next.js", "Express.js"],
+    frameworks: ["Next.js"],
     tools: ["Git", "Jest", "Bash", "Postman", "Docker"],
     databases: ["MySQL", "MariaDB", "SQLite", "MongoDB"],
     design: ["Figma", "Adobe Photoshop", "Adobe Illustrator"],
