@@ -15,62 +15,8 @@
 ## About Me
 
 ```typescript
-// developer.config.ts
-
-type Language = "JavaScript" | "TypeScript" | "C#" | "HTML" | "CSS";
-type Library = "React.js" | "Redux" | "Zustand" | "Zod";
-type Framework = "Tailwind CSS" | "Next.js" | ".NET";
-type Database = "MongoDB" | "MySQL";
-type VersionControl = "Git" | "GitHub";
-type TestingTool = "Jest" | "Selenium" | "Postman";
-type BuildTool = "Vite" | "Webpack" | "npm" | "Eslint" | "Prettier";
-type CssPreprocessor = "SASS";
-type Editor = "Vim" | "Neovim" | "VS Code" | "Visual Studio" | "Sublime";
-type DesignTool = "Figma" | "Photoshop";
-type Interest = "Web Development" | "Application Security" | "Open Source" | "Arduino" | "Cloud Computing" | "DevOps";
-type Certification = "JavaScript Algorithms and Data Structures" | "Responsive Web Design" | "Legacy JavaScript Algorithms and Data Structures" | "Back End Development and APIs";
-
-interface Spells {
-  state: Library[];
-  ui: Library[];
-  validation: Library[];
-}
-
-interface Toolkit {
-  dataVaults: Database[];
-  timeTravel: VersionControl[];
-  qualityCheck: TestingTool[];
-  forge: BuildTool[];
-  styleSorcery: CssPreprocessor[];
-}
-
-interface Weapons {
-  languages: Language[];
-  spells: Spells;
-  powerArmor: Framework[];
-  toolkit: Toolkit;
-}
-
-interface Workspace {
-  editors: Editor[];
-  visualCrafting: DesignTool[];
-}
-
-interface Achievements {
-  freeCodeCamp: Certification[];
-}
-
-interface Developer {
-  basecamp: string;
-  currentMission: string;
-  weapons: Weapons;
-  workspace: Workspace;
-  questLog: Interest[];
-  achievements: Achievements;
-  init: () => Developer;
-}
-
-export const Ivan: Developer = {
+// developer.config.js
+export const Ivan = {
   // Currently coding from 🏝️
   basecamp: "Philippines",
   
@@ -125,7 +71,7 @@ export const Ivan: Developer = {
   },
   
   // Execute developer program
-  init: function(): Developer {
+  init: function() {
     console.log("Hello World! I'm Ivan, let's build something amazing!");
     return this;
   }
