@@ -47,22 +47,13 @@ var ivan = {
 ```
 
 ## 📊 GitHub Stats
-
-<div  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanwritescode&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&rank_icon=github">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanwritescode&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&rank_icon=github">
     <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ivanwritescode&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&rank_icon=github" alt="Ivan's GitHub Stats">
   </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ivanwritescode&theme=monokai-metallian&hide_border=true&background=1F222E">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=ivanwritescode&theme=default&hide_border=true">
-    <img width="49%" src="https://streak-stats.demolab.com?user=ivanwritescode&theme=monokai-metallian&hide_border=true&background=1F222E" alt="Ivan's Streak Stats">
-  </picture>
 </div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ivanwritescode&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
@@ -75,7 +66,6 @@ var ivan = {
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanwritescode&theme=nord_bright">
     <img width="57%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ivanwritescode&theme=nord_dark" alt="Ivan's GitHub Activity Graph">
   </picture>
-</div>
 </div>
 ## 🏆 GitHub Trophies
 
