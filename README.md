@@ -57,7 +57,8 @@ export const Ivan = {
     "Open Source",
     "Arduino",
     "Cloud Computing", 
-    "DevOps"
+    "DevOps",
+    "Machine Learning",
   ],
   
   // Achievement badges 🏆
