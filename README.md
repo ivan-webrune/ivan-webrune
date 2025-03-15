@@ -58,6 +58,7 @@ export const Ivan = {
     "Cloud Computing", 
     "DevOps",
     "Machine Learning",
+    "Pixel Art",
     "Indie Game Development",
   ],
   
