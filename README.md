@@ -59,6 +59,7 @@ export const Ivan = {
     "Cloud Computing", 
     "DevOps",
     "Machine Learning",
+    "Indie Game Development",
   ],
   
   // Achievement badges 🏆
