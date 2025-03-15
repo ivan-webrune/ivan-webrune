@@ -165,8 +165,8 @@ Ivan.init();
 
 <div align="center" title="Vite, Webpack, NPM, ESLint, and Prettier">
   <img src="https://skillicons.dev/icons?i=vite,webpack,npm" alt="Build Tools & Package Management" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" style="width: 40px; height: 40px; padding: 5px; background-color:rgb(54, 52, 65); border-radius: 30%; margin-left: 3px;" alt="ESLint" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/prettier-1.svg" style="width: 40px; height: 40px; padding: 5px; background-color:rgb(54, 52, 65); border-radius: 30%; margin-left: 3px;" alt="Prettier" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/ESLint_logo.svg" width="40" height="40" style="background-color: #363441; border-radius: 30%; padding: 5px; margin-left: 3px;" alt="ESLint" />
+  <img src="https://cdn.worldvectorlogo.com/logos/prettier-1.svg" width="40" height="40" style="background-color: #363441; border-radius: 30%; padding: 5px; margin-left: 3px;" alt="Prettier" />
 </div>
 
 #### CSS Preprocessor
