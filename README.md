@@ -55,7 +55,6 @@ export const Ivan = {
     "Web Development",
     "Application Security",
     "Open Source",
-    "Arduino",
     "Cloud Computing", 
     "DevOps",
     "Machine Learning",
