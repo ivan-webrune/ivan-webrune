@@ -40,7 +40,7 @@ export const Ivan = {
       timeTravel: ["Git", "GitHub"],  // Version control
       qualityCheck: ["Jest", "Selenium", "Postman"],
       forge: ["Vite", "Webpack", "npm", "Eslint", "Prettier"],
-      styleSorcery: ["SASS"]
+      styleSorcery: ["SASS", "Tailwind CSS"],
     }
   },
   
@@ -169,10 +169,10 @@ Ivan.init();
   <img src="https://cdn.worldvectorlogo.com/logos/prettier-1.svg" style="width: 40px; height: 40px; padding: 5px; background-color:rgb(54, 52, 65); border-radius: 30%; margin-left: 3px;" alt="Prettier" width="40" height="40"/>
 </div>
 
-#### CSS Preprocessor
+#### CSS Preprocessor and Framework
 
-<div align="center" title="SASS">
-  <img src="https://skillicons.dev/icons?i=sass" alt="CSS Preprocessor" />
+<div align="center" title="SASS and Tailwind CSS">
+  <img src="https://skillicons.dev/icons?i=sass,tailwind" alt="CSS Preprocessor" />
 </div>
 
 ### 🛠 Workflow
