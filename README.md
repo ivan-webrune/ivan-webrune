@@ -122,7 +122,7 @@ Ivan.init();
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ivanwritescode&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Ivan's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ivan-webrune&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=4" alt="Ivan's GitHub Trophies" />
 </div>
 
 ## 🔥 My Skills
