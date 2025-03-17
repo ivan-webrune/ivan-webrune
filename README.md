@@ -12,7 +12,7 @@
   <a href="mailto:ivanmejico.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-[My Resume](https://drive.google.com/file/d/1epvRxEkFdseQzZZBQZyvFDXNF1AQs-08/view?usp=sharing)
+<h1><a href="https://drive.google.com/file/d/1epvRxEkFdseQzZZBQZyvFDXNF1AQs-08/view?usp=sharing">My Resume</a></h1>
 
 ## About Me
 
